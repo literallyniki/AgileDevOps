@@ -1,4 +1,3 @@
-# AgileDevOps
 <h1>America Votes 🇺🇸</h1>
 
 __Title:__ Online Voting/Polling System (Secured with Blockchain)
